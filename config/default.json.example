@@ -1,0 +1,23 @@
+{
+  "freshbooks": {
+    "url": "",
+    "token": ",
+    "project": {
+      "name": "",
+      "id": ""
+    }
+  },
+  "harvest": {
+    "subdomain": "",
+    "email": "",
+    "password": "",
+    "project": {
+      "name": "",
+      "id": ""
+    },
+    "task": {
+      "name": "",
+      "id": ""
+    }
+  }
+}
